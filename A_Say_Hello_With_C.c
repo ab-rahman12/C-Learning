@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<limits.h>
-#include<math.h>
 int main()
 {
     char s[100];
